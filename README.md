@@ -1,4 +1,4 @@
-<👋 Hi, I’m **YUJIN K.**(@gguggurggu)>
+<👋 Hi, I’m **77rouu.**(@gguggurggu)>
 
 - ❤️ I’m interested in _watching videos to learn more about coding_
 - 🌱 I’m currently learning _JavaScript, TypeScript, NodeJS, SQL_
